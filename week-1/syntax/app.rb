@@ -205,7 +205,9 @@ puts 1 === 1
 
 # Ternary Operators
 # 1. Ternary Operator (? :)
+puts 10>5 ? "10 is greater than 5" : "10 is not greater than 5"
 # 2. Safe Navigation Operator (&.)
+#example
 # 3. Conditional Assignment Operator (||=)
 # 4. Conditional Selection Operator (..)
 # 5. Conditional Selection Operator (...)
